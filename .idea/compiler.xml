@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="team127_Java" options="--add-exports java.base/jdk.internal.icu.impl=ALL-UNNAMED" />
+      <module name="team127_JavaPractices" options="--add-exports java.base/jdk.internal.icu.impl=ALL-UNNAMED" />
     </option>
   </component>
 </project>
