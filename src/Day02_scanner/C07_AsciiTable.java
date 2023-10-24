@@ -1,6 +1,6 @@
 package Day02_scanner;
 
-import jdk.internal.icu.impl.CharacterIteratorWrapper;
+
 
 import java.util.Scanner;
 
